@@ -24,7 +24,7 @@ body{
     text-align: center;
 }
 .bg-colorBlue3{
-    background-color:#6079a4;
+    background-color:#425980;
 }
 .bg-colorBlueLight{
     background-color:#1490D7;
@@ -61,9 +61,6 @@ h2{
 }
 .header .posteRecherche{
     flex:auto;
-}
-.posteRecherche{
-    font-size: 50px;
 }
 /*******
 ** FIN Header
