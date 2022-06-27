@@ -1,0 +1,38 @@
+body{
+    font-family : Berlin Sans FB;
+}
+.size40{
+    font-size:40px;
+}
+.colorBlueDark{
+    color:#283645;
+}
+.colorBlueLight{
+    color:#1490D7;
+}
+.colorOrange{
+    color:#FF8000;
+}
+
+
+/*******
+** Header
+*****/
+.header{
+    display:flex;
+    align-items: center;
+    text-align:center;
+}
+
+.header .photoPerso, .header .infoPerso{
+    width:33.3%;
+}
+.header .photoPerso img{
+    height:200px;
+}
+.header .posteRecherche{
+    flex:auto;
+}
+/*******
+** FIN Header
+*****/
