@@ -17,6 +17,7 @@ body{
 .colorOrange{
     color:#FF8000;
 }
+
 .colorWhite{
     color:white;
 }
@@ -26,9 +27,6 @@ body{
 .bg-colorBlue3{
     background-color:#424580;
 }
-.bg-colorBlueLight{
-    background-color:#1490D7;
-}
 h2{
     padding:0px;
     margin:30px 0px;
@@ -36,6 +34,7 @@ h2{
 .borderBottomDark{
     border-bottom:1px solid #283645;
 }
+
 .gauche{
     float:left;
 }
@@ -99,46 +98,9 @@ h2{
 .col2{
     width:80%;
 }
-label{
-    display:block;
-    float:left;
-    width:20%;
-    text-align:right;
-    padding-right:20px;
-}
-.buttonContact{
-    margin-left:20%;
-    width:200px;
-}
 /********
 ** Fin Corps
 *********/
-
-@media (max-width: 768px){
-    .size40{
-        font-size:22px;
-    }
-    .size20{
-        font-size:14px;
-    }
-    .header .photoPerso img{
-        height:100px;
-    }
-    .col1{
-        width:30%;
-    }
-    .col2{
-        width:70%;
-    }
-}
-@media (min-width: 769px) and (max-width:1300px){
-    .col1{
-        width:35%;
-    }
-    .col2{
-        width:65%;
-    }
-}
 nav ul{
     margin:0;
     padding:0;
