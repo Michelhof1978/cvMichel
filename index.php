@@ -4,10 +4,10 @@
 <div class="corps">
 <h2 class="colorBlueDark size40 borderBottomDark">Synthèse</h2>
 <div>
-  Actuellement en reconversion professionnelle et en formation depuis septembre 2021, je souhaiterai aujourd'hui placer ma passion pour le développement web au cœur de ma nouvelle vie professionnelle. J'ai pour cela, commencé à me former aux bases du langage PHP.
+  Actuellement en reconversion professionnelle et en formation depuis septembre 2021, j'aimerais aujourd'hui placer ma passion pour le développement web au cœur de ma nouvelle vie professionnelle. 
 Mon objectif est d'obtenir « le titre professionnel de niveau 5 de développeur web & web mobile » que je devrais obtenir en février 2023.
-Suite à ce diplôme, je souhaiterai continuer à me former à d'autres langages afin de continuer à monter en compétences. 
-De nature autodidacte et toujours motivé, je mettrai à profit ma formation ainsi que mes expériences personnels et professionnels pour pouvoir répondre au mieux à l’exigence clients.
+Suite à ce diplôme, je souhaiterais continuer à me former à d'autres langages afin de continuer à monter en compétences. 
+De nature autodidacte et toujours motivé, je mettrais à profit ma formation ainsi que mes expériences personnelles et professionnelles pour pouvoir répondre au mieux à l’exigence clients.
 Je possède naturellement le sens du contact, je suis à l'aise pour travailler en équipe ou en autonomie et prêt à relever de nouveaux challenges.
 </div>
 
@@ -67,7 +67,7 @@ Fernand Greg - Champagne/Seine 09/1995 – 07/1996
   -Nature <br/>
   -Ecologie<br/>
   -Animaux<br/>
-  -Ballade à pieds ou en vélo<br/>
+  -Randonnées<br/>
   -Musique<br/>
   -Surf
 </div>
