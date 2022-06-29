@@ -2,9 +2,10 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
+  <meta name="description" content="Formulaire de contact">
   <title>Formulaire de Contacts</title>
   <link rel="stylesheet" href="style.css">
-  <script src="script.js"></script>
+  
 </head>
 <body>
 <!--header-->
@@ -82,5 +83,7 @@
 <div class="footer text-center colorWhite bg-colorBlue3">
   Tous droits réservés
 </div>
+<?php include("footer.php") ?>
+<script src="menu.js"></script>
 </body>
 </html>
