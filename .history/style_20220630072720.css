@@ -1,4 +1,4 @@
-
+.couverture
 
 body{
     font-family : 'Berlin Sans FB', 'Trebuchet MS', Arial;
@@ -26,7 +26,7 @@ body{
     text-align: center;
 }
 .bg-colorBlue3{
-    background-color:#258e96e6;
+    background-color:#6079a4;
 }
 .bg-colorBlueLight{
     background-color:#1490D7;
@@ -75,13 +75,9 @@ h2{
 }
 
  .photoPerso img{
-
+    height:250px;
     background-color:rgba(0, 0, 0, 0);
-  width: 220px;
-  height: auto;
-  margin-top: 5px;
-  margin-bottom: 2px;
-  margin-left: 5px;
+   margin-top: 20px;
     
 }
  

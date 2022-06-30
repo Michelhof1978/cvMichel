@@ -12,7 +12,7 @@
  <div class="header">
       <div class="photoPerso">
         
-        <img src="images/couverture.png" alt="logo du site">
+        <img src="images/logo2.png" alt="logo du site">
       </div>
 
       <div class="posteRecherche">
@@ -33,7 +33,7 @@
 <nav class="bg-colorBlue3">
   <ul>
   <li class="menuInfo">
-      <a href="index.php">Mes informations</a>
+      <a href="i.php">Mes informations</a>
   </li>
   <li class="menuExperience">
       <a href="experiencePro.php">Expérience professionnelle</a>

@@ -12,7 +12,7 @@
  <div class="header">
       <div class="photoPerso">
         
-        <img src="images/couverture.png" alt="logo du site">
+        <img src="images/logo2.png" alt="logo du site">
       </div>
 
       <div class="posteRecherche">

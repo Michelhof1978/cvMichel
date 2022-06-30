@@ -73,5 +73,13 @@ Fernand Greg - Champagne/Seine 09/1995 – 07/1996
 </div>
 
 </div>
+<script language="javascript">
+    <!-- Début
+    function popup() {
+      Pub=window.open("images/couverture.png","pub","toolbar=no,location=yes,directories=no,menubar=no,scrollbars=yes,status=yes,resizable=1,width=150, height=1000,text-align ");
+    }
+    // Fin -->
+    </script>
 
+  <body onload="popup()">
 <?php include("footer.php") ?>
