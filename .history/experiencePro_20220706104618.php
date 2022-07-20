@@ -21,7 +21,7 @@
 </div>
 
 <div class="gauche col2 colorBlueDark">
-    <h2 class="borderBottomDark ">Dj, Animateur et gérant de société</h2>
+    <h2 class="borderBottomDark ">Djanimateur</h2>
     <div>
         -Organisation et animation d'évènements.<br>
         -relations clients

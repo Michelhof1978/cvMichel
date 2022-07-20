@@ -9,14 +9,11 @@ Mon objectif est d'obtenir « le titre professionnel de niveau 5 de développeur
 Suite à ce diplôme, je continuerais à me former à d'autres langages afin de monter en compétences. 
 De nature autodidacte et toujours motivé, je mettrais à profit ma formation ainsi que mes expériences personnelles et professionnelles pour pouvoir répondre au mieux à l’exigence clients.
 Je possède naturellement le sens du contact, je suis à l'aise pour travailler en équipe ou en autonomie et prêt à relever de nouveaux challenges.
-
-<br><br>
-<div class="link">
-<a href="https://github.com/Michelhof1978">Projets Github - Cliquez ici!</a>
 <br>
-<a href="https://www.linkedin.com/in/michel-h-245436203/">Profil Linkedin - Cliquez ici!</a>
-</div>
+<a href="https://github.com/Michelhof1978"></a>
+<a href="https://github.com/Michelhof1978"></a>
 
+https://www.linkedin.com/in/michel-h-245436203/
 </div>
 
   <h2 class="colorBlueDark size40 borderBottomDark">Domaine de compétences</h2>
