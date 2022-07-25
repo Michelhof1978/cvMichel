@@ -4,6 +4,7 @@
 <div class="corps">
 <h2 class="colorBlueDark size40 borderBottomDark">Synthèse</h2>
 <div class="text">
+<<<<<<< HEAD
 Actuellement en reconversion professionnelle et en formation depuis septembre 2021, j'aimerai aujourd'hui concrétiser ma passion pour le développement web au cœur de ma nouvelle vie professionnelle.
     Mon objectif est d'obtenir « le diplôme de développeur web & web mobile de niveau 5 » qui aura lieu en février 2023.
     Suite à ce diplôme, je continuerai à me former afin de toujours monter en compétences.
@@ -13,6 +14,22 @@ Actuellement en reconversion professionnelle et en formation depuis septembre 20
 
 
 
+=======
+  Actuellement en reconversion professionnelle et en formation depuis septembre 2021, j'aimerais aujourd'hui concrétiser ma passion pour le développement web au cœur de ma nouvelle vie professionnelle. 
+Mon objectif est d'obtenir « le titre professionnel de niveau 5 de développeur web & web mobile » que je devrais obtenir en février 2023.
+Suite à ce diplôme, je continuerais à me former à d'autres langages afin de monter en compétences. 
+De nature autodidacte et toujours motivé, je mettrais à profit ma formation ainsi que mes expériences personnelles et professionnelles pour pouvoir répondre au mieux à l’exigence clients.
+Je possède naturellement le sens du contact, je suis à l'aise pour travailler en équipe ou en autonomie et prêt à relever de nouveaux challenges.
+
+<br><br>
+<div class="link">
+<a href="https://github.com/Michelhof1978">Projets Github - Cliquez ici!</a>
+<br>
+<a href="https://www.linkedin.com/in/michel-h-245436203/">Profil Linkedin - Cliquez ici!</a>
+</div>
+
+</div>
+>>>>>>> e72af41d39385e739caa0e705aec15c88d757928
 
   <h2 class="colorBlueDark size40 borderBottomDark">Domaine de compétences</h2>
 

@@ -20,7 +20,7 @@
       <a href="index.php">Mes informations</a>
   </li>
   <li class="menuExperience">
-      <a href="experiencePro.php">Expériences professionnelle</a>
+      <a href="experiencePro.php">Expériences professionnelles</a>
   </li>
   <li class="menuContact">
       <a href="formulaireContact.php">Formulaire de contact</a>
