@@ -13,7 +13,6 @@ Actuellement en reconversion professionnelle et en formation depuis septembre 20
 
 
 
-
   <h2 class="colorBlueDark size40 borderBottomDark">Domaine de compétences</h2>
 
 <div class="domaineCompetence">

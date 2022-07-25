@@ -51,7 +51,11 @@ if ($retour) {
 </fieldset>
   </form>
 
-  
+  <div class="cv">
+<a href="images/cv-HoffmannMichel.pdf" download>
+  <img src="images/logoTelechargementCv.png" alt="CV" title="Téléchargement du Cv" />
+</a>
+</div>
 </div>
 </div>
 <!--Footer du site-->

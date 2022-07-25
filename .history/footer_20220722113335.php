@@ -8,7 +8,9 @@
 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-
+<a href="images/cv-HoffmannMichel.pdf" download>
+  <img src="images/logoTelechargementCv.png" alt="CV" title="Téléchargement du Cv" />
+</a>
 
 <a href="https://github.com/Michelhof1978">
 <img src="images/githubLogo.png" alt="Projets Github" title="Projets Github" /> 

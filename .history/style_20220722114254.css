@@ -57,6 +57,7 @@ h2{
 ** Header
 *****/
 .header{
+   text-align: center;
 width : 100%;
 height: 350px;
 text-align: center;
@@ -225,4 +226,11 @@ nav li:hover a{
 .compteur{
     text-align: center;
     margin-top: 10px;
+}
+img {
+    max-height : 10px;
+    width : auto;
+    }
+.cv{
+    te
 }

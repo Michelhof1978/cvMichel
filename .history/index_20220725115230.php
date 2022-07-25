@@ -9,10 +9,15 @@ Actuellement en reconversion professionnelle et en formation depuis septembre 20
     Suite à ce diplôme, je continuerai à me former afin de toujours monter en compétences.
     De nature autodidacte et toujours motivé, je mettrai à profit ma formation ainsi que mes expériences perso et pro pour pouvoir répondre au mieux à l’exigence du client.
     Je possède naturellement le sens du contact, je suis à l'aise pour travailler en équipe ou en autonomie et prêt à relever de nouveaux challenges.
+
 <br><br>
+<div class="link">
+<a href="https://github.com/Michelhof1978">Projets Github - Cliquez ici!</a>
+<br>
+<a href="https://www.linkedin.com/in/michel-h-245436203/">Profil Linkedin - Cliquez ici!</a>
+</div>
 
-
-
+</div>
 
   <h2 class="colorBlueDark size40 borderBottomDark">Domaine de compétences</h2>
 

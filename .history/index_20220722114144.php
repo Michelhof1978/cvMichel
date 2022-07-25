@@ -12,7 +12,9 @@ Actuellement en reconversion professionnelle et en formation depuis septembre 20
 <br><br>
 
 
-
+<a href="images/cv-HoffmannMichel.pdf" download>
+  <img src="images/logoTelechargementCv.png" alt="CV" title="Téléchargement du Cv" />
+</a>
 
   <h2 class="colorBlueDark size40 borderBottomDark">Domaine de compétences</h2>
 

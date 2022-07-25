@@ -56,7 +56,8 @@ h2{
 /*******
 ** Header
 *****/
-.header{
+.head{
+   text-align: center;
 width : 100%;
 height: 350px;
 text-align: center;

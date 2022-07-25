@@ -11,7 +11,11 @@ Actuellement en reconversion professionnelle et en formation depuis septembre 20
     Je possède naturellement le sens du contact, je suis à l'aise pour travailler en équipe ou en autonomie et prêt à relever de nouveaux challenges.
 <br><br>
 
-
+<div class>
+<a href="images/cv-HoffmannMichel.pdf" download>
+  <img src="images/logoTelechargementCv.png" alt="CV" title="Téléchargement du Cv" />
+</a>
+</div>
 
 
   <h2 class="colorBlueDark size40 borderBottomDark">Domaine de compétences</h2>

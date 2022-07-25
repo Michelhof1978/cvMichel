@@ -8,8 +8,6 @@
 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-
-
 <a href="https://github.com/Michelhof1978">
 <img src="images/githubLogo.png" alt="Projets Github" title="Projets Github" /> 
 </a>
