@@ -49,16 +49,18 @@ Actuellement en reconversion professionnelle et en formation depuis septembre 20
   <h2 class="colorBlueDark size40 borderBottomDark">Formation</h2>
 <div>
   Diplôme de niveau 5 (en cours) : Développement Web  <br>
-  <div class="activity">Wild Code School 09/2021 à Aujourd'hui<br><hr></div>
+  Développeur autodidacte  09/2022– 02/2023<br>
+  <div class="activity">Wild Code School 09/2021 à Au
+ <hr>
 
 BAC : Restauration 	 <br>
-<div class="activity">Sévigné - Gap 09/1998 – 07/1999<br><hr></div>
+<div class="activity">Sévigné - Gap 09/1998 – 07/1999<br><hr>
 
 CAP / BEP : Restauration  <br>                                                                                                       
-<div class="activity">Sévigné - Gap  09/1996 – 07/1998<br><hr></div>
+<div class="activity">Sévigné - Gap  09/1996 – 07/1998<br><hr>
 
 BEPC 	 <br> 
-<div class="activity">Fernand Greg - Champagne/Seine 09/1995 – 07/1996</div>
+<div class="activity">Fernand Greg - Champagne/Seine 09/1995 – 07/1996
 
 
 </div>

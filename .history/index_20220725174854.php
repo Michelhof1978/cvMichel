@@ -50,6 +50,7 @@ Actuellement en reconversion professionnelle et en formation depuis septembre 20
 <div>
   Diplôme de niveau 5 (en cours) : Développement Web  <br>
   <div class="activity">Wild Code School 09/2021 à Aujourd'hui<br><hr></div>
+ <hr>
 
 BAC : Restauration 	 <br>
 <div class="activity">Sévigné - Gap 09/1998 – 07/1999<br><hr></div>
