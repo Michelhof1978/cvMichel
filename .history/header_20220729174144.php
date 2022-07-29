@@ -22,13 +22,12 @@
   <li class="menuExperience">
       <a href="experiencePro.php">Expériences professionnelles</a>
   </li>
-  <li class="menuInfo">
-      <a href="mario/index.html">Jouer à Mario</a>
-  </li>
   <li class="menuContact">
       <a href="formulaireContact.php">Formulaire de contact</a>
   </li>
-  
+  <li class="menuInfo">
+      <a href="mario">Jouer à Mario</a>
+  </li>
   
 </ul>
 </nav>
