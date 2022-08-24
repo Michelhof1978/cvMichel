@@ -2,6 +2,7 @@
 
 body{
    
+   
     background-color: rgba(245, 245, 220, 0.37);
 }
 .size40{
@@ -71,15 +72,10 @@ text-align: center;
 .footer{
     padding:10px;
     margin-top : 50px;
-    position:relative;
-    bottom:0;
-    left:0;
-    height:200px;
+    position: relative;
 }
 
-.footer2{
-  
-}
+.footer2
 /********
 ** Fin Footer
 *********/

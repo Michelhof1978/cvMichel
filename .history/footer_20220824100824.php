@@ -9,7 +9,7 @@
 
 <footer class="footer text-center colorWhite bg-colorBlue3 ">
 
-
+< class="footer2">
 <a href="https://github.com/Michelhof1978">
 <img src="images/github.png"  alt="Projets Github" title="Projets Github" /> 
 </a>

@@ -9,7 +9,7 @@
 
 <footer class="footer text-center colorWhite bg-colorBlue3 ">
 
-
+<div cl>
 <a href="https://github.com/Michelhof1978">
 <img src="images/github.png"  alt="Projets Github" title="Projets Github" /> 
 </a>
@@ -31,7 +31,7 @@
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c02genv2-74909-2" border="0"/></a>
 </div>
 
-
+</div>
 </footer>
 
 
