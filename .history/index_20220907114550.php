@@ -3,13 +3,17 @@
 <!--Corps du site-->
 <div class="corps">
 <h2 class="colorBlueDark size40 borderBottomDark">Synthèse</h2>
-<div>
-  Actuellement en reconversion professionnelle et en formation depuis septembre 2021, j'aimerais aujourd'hui placer ma passion pour le développement web au cœur de ma nouvelle vie professionnelle. 
-Mon objectif est d'obtenir « le titre professionnel de niveau 5 de développeur web & web mobile » que je devrais obtenir en février 2023.
-Suite à ce diplôme, je souhaiterais continuer à me former à d'autres langages afin de continuer à monter en compétences. 
-De nature autodidacte et toujours motivé, je mettrais à profit ma formation ainsi que mes expériences personnelles et professionnelles pour pouvoir répondre au mieux à l’exigence clients.
+<div class="text">
+
+En Développement web, comme en tout, les connaissances ne sont rien, sans curiosité, intelligence, réflexion et imagination. 
+
+C’est la curiosité et la passion pour ce métier qui m’ont amené à une reconversion professionnelle et à reprendre mes études. 
+
+De nature autodidacte, mobile dans toute la France et toujours motivé, je mettrai à profit mes expériences pour répondre au mieux à l’exigence du client.
 Je possède naturellement le sens du contact, je suis à l'aise pour travailler en équipe ou en autonomie et prêt à relever de nouveaux challenges.
-</div>
+
+<br><br>
+
 
   <h2 class="colorBlueDark size40 borderBottomDark">Domaine de compétences</h2>
 
@@ -42,44 +46,39 @@ Je possède naturellement le sens du contact, je suis à l'aise pour travailler 
     </tr>
   </table>
 </div>
-<hr>
+
         
   <h2 class="colorBlueDark size40 borderBottomDark">Formation</h2>
 <div>
   Diplôme de niveau 5 (en cours) : Développement Web  <br>
-  Développeur autodidacte  09/2022– 02/2023<br>
- <hr>
+  <div class="activity">Wild Code School 09/2021 à Aujourd'hui<br><hr></div>
 
 BAC : Restauration 	 <br>
-Sévigné - Gap 09/1998 – 07/1999<br><hr>
+<div class="activity">Sévigné - Gap 09/1998 – 07/1999<br><hr></div>
 
 CAP / BEP : Restauration  <br>                                                                                                       
-Sévigné - Gap  09/1996 – 07/1998<br><hr>
+<div class="activity">Sévigné - Gap  09/1996 – 07/1998<br><hr></div>
 
 BEPC 	 <br> 
-Fernand Greg - Champagne/Seine 09/1995 – 07/1996
+<div class="activity">Fernand Greg - Champagne/Seine 09/1995 – 07/1996</div>
 
 
 </div>
 
   <h2 class="colorBlueDark size40 borderBottomDark">Activités personnelles</h2>
 <div>
-  -Nature <br/>
-  -Ecologie<br/>
-  -Animaux<br/>
-  -Randonnées<br/>
-  -Musique<br/>
-  -Surf
+  Ecologie
+  <div class="activity"> Militant et respect de la nature</div>
+  Animaux
+  <div class="activity">Respect à toutes formes de vies</div>
+  Randonnées
+  <div class="activity">Marche + Vélo</div>
+  Musique
+  <div class="activity">Ecoute + Concert</div>
+  Surf
+  <div class="activity">Côté Océan</div>
 </div>
 
 </div>
-<script language="javascript">
-    <!-- Début
-    function popup() {
-      Pub=window.open("images/couverture.png","pub","toolbar=no,location=yes,directories=no,menubar=no,scrollbars=yes,status=yes,resizable=1,width=150, height=1000,backgroun ");
-    }
-    // Fin -->
-    </script>
 
-  <body onload="popup()">
 <?php include("footer.php") ?>
