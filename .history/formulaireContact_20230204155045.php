@@ -1,11 +1,26 @@
 <?php include("header.php") ?>
+<?php 
+if (isset($_POST["message"])) {
+  $message = "Message envoyé de :
+  Nom : ".$_POST["nom"]."
+  Email : ".$_POST["email"]."
+  Objet : ".$_POST["objet"]."
+  Message : ".$_POST["message"];
+
+$retour = mail("michel.hof@hotmail.fr", $_POST["objet"], $message,"From:contact@cvmichel-hoffmann.fr" . "\r\n" . "Reply-to:" . $_POST["email"]);
+
+if ($retour) {
+  echo "<p>L'email a bien été envoyé</p>";
+}
+}
+?>
 
 <!--Corps du site-->
-<div class="corps size20">
+<div class="corps size20 text">
 <h2 class="size40 borderBottomDark">Me contacter</h2>
 
 <div>
-  <form action="#" method="GET">
+  <form action="#" method="POST">
     <fieldset>
       <legend>Renseigner les informations</legend>
 
@@ -15,14 +30,15 @@
   </div>
 
   <div>
-    <label for="mail">Email:</label>
-    <input type="email" name="mail" id="mail" placeholder="nom@exemple.com" required/>
+    <label for="email">Email:</label>
+    <input type="email" name="email" id="email" placeholder="nom@exemple.com" required/>
   </div>
 
   <div>
     <label for="objet">Objet:</label>
     <select name="objet" id="objet">
-      <option>Question</option>
+      <option>Pour m'embaucher</option>
+      <option>Proposition d'un projet</option>
       <option>Autre</option>
       
     </select>
@@ -36,9 +52,8 @@
 </fieldset>
   </form>
 
-  <?php
+  
 </div>
 </div>
 <!--Footer du site-->
-
 <?php include("footer.php") ?>

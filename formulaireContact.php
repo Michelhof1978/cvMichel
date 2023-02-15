@@ -1,7 +1,7 @@
 <?php include("header.php") ?>
 <?php 
 if (isset($_POST["message"])) {
-  $message = "Message envoye de :
+  $message = "Message envoyé de :
   Nom : ".$_POST["nom"]."
   Email : ".$_POST["email"]."
   Objet : ".$_POST["objet"]."
