@@ -37,6 +37,6 @@
 
 
 <script src="menu.js"></script>
-
+<script src="snake.js"></script>
 </body>
 </html>

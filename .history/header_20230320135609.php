@@ -6,7 +6,7 @@
   <title>Cv de Michel Hoffmann</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/glacial-indifference" type="text/css"/>
-  <link rel="icon" type="image/png" href="../images/logo.png" />
+
 </head>
 <body>
 <!--header-->

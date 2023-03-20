@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="description" content="Page d'accueil du CV de Michel HOFFMANN">
-  <title>Cv de Michel Hoffmann</title>
+  <title>Cv de Michel </title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/glacial-indifference" type="text/css"/>
-  <link rel="icon" type="image/png" href="../images/logo.png" />
+
 </head>
 <body>
 <!--header-->
