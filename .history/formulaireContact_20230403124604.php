@@ -38,7 +38,7 @@ if ($retour) {
     <label for="objet">Objet:</label>
     <select name="objet" id="objet">
       <option>Proposition d'emploi</option>
-      <option>Proposition d'un projet</option>
+      <option>Pros</option>
       <option>Autre</option>
       
     </select>

@@ -10,8 +10,6 @@
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/glacial-indifference" type="text/css"/>
   <link rel="icon" type="image/png" href="../images/logo.png" />
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-
 </head>
 <body>
 <!--header-->
@@ -27,9 +25,9 @@
   <li class="menuExperience">
       <a href="experiencePro.php">Expériences professionnelles</a>
   </li>
-  <!-- <li class="menuInfo">
-      <a href="snake/index.html">Jouer à Snake</a>
-  </li> -->
+  <li class="menuInfo">
+      <a href="snake/index.htML">Jouer à Snake</a>
+  </li>
   <li class="menuContact">
       <a href="formulaireContact.php">Formulaire de contact</a>
   </li>

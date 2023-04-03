@@ -2,12 +2,10 @@
 <?php include("header.php") ?>
 <!--Corps du site-->
 <div class="corps">
-
-<br>
-<div class="text lead bg-light rounded shadow p-4 pb-5 bg-white rounded ms-1 me-1 ">
 <h2 class="colorBlueDark size40 borderBottomDark">Synthèse</h2>
+<div class="text textIntro lead bg-light rounded shadow p-4 pb-5 bg-white rounded ms-1 me-1 ">
 
-    En Développement web, comme en tout, les connaissances ne sont rien,
+En Développement web, comme en tout, les connaissances ne sont rien,
 sans curiosité, intelligence, réflexion et imagination.
 C’est la curiosité et la passion pour ce métier qui m’ont amené à une
 reconversion professionnelle et à reprendre mes études.
@@ -20,7 +18,6 @@ en équipe ou en autonomie et prêt à relever de nouveaux challenges.
 
 
   <h2 class="colorBlueDark size40 borderBottomDark">Domaine de compétences</h2>
-  <br>
 
 <div class="domaineCompetence">
   <table>
