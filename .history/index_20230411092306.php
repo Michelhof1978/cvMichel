@@ -36,7 +36,7 @@ en équipe ou en autonomie et prêt à relever de nouveaux challenges.
     </tr>
     <tr>
       <td>Programation Web</td>
-      <td>PHP/Symfony, HTML5, CSS3/Bootstrap, Javascript/React, MySQL, Référencement SEO, Marketing Digital</td>
+      <td>PHP, HTML,CSS, Javascript, MySQL, </td>
       <td>Confirmé</td>
     </tr>
     <tr>
