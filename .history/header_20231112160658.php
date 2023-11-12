@@ -35,5 +35,5 @@
   </ul>
 </nav>
 
-<h1 class="lead">Cv Développeur Web Full Stack</h1>
+<h1 class="">Cv Développeur Web Full Stack</h1>
 
