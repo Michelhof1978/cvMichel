@@ -35,6 +35,6 @@
   </ul>
 </nav>
 
-<p class="size40 display-6 colorBlueLight text-center mt-4 mb-4  fw-bold  ">Cv Développeur Web Full Stack</p>
-<p class="size40   text-center fw-bold">Hoffmann Michel</p>
+<h1 class=" text-center fw-bold m-5 display-1  text-secondary">CV DEVELOPPEUR WEB FULL STACK</h1>
+<h2 class=" text-center fw-bold mt-5 display-6  text">HOFFMANN MICHEL</h2>
 

@@ -6,17 +6,17 @@
 <br>
 <div class="text lead bg-light rounded shadow p-4 pb-5 bg-white rounded ms-1 me-1 ">
 <h2 class="colorBlueDark size40 borderBottomDark">Synthèse</h2>
-<p class="mt-3">
+
     En Développement web, comme en tout, les connaissances ne sont rien,
 sans curiosité, intelligence, réflexion et imagination.<br>
 C’est la curiosité et la passion pour ce métier qui m’ont amené à une
 reconversion professionnelle et à reprendre mes études.<br>
 De nature autodidacte et toujours motivé, je mettrai à profit mes
 expériences pour répondre au mieux à l’exigence du client.<br> Je suis flexible
-quant à mes déplacements pour satisfaire aux exigences de l'emploi.<br>
+quant à mes déplacements pour satisfaire aux exigences de l'emploi.
 Je possède naturellement le sens du contact, je suis à l'aise pour travailler
 en équipe ou en autonomie et prêt à relever de nouveaux challenges.
-</p>
+<br><br>
 
 
   <h2 class="colorBlueDark size40 borderBottomDark">Domaine de compétences</h2>
