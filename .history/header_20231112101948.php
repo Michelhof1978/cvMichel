@@ -28,7 +28,7 @@
       <a href="experiencePro.php">Expériences Professionnelles</a>
   </li>
   <li class="menuInfo">
-      <a href="">Dossier Professionnel</a>
+      <a href="">Dossier professionnel</a>
   </li>
   <li class="menuContact">
       <a href="formulaireContact.php">Formulaire De Contact</a>

@@ -25,13 +25,13 @@
       <a href="index.php">Mes informations</a>
   </li>
   <li class="menuExperience">
-      <a href="experiencePro.php">Expériences Professionnelles</a>
+      <a href="experiencePro.php">Expériences professionnelles</a>
   </li>
   <li class="menuInfo">
-      <a href="">Dossier Professionnel</a>
-  </li>
+      <a href="snake/index.html">Jouer à Snake</a>
+  </li> -->
   <li class="menuContact">
-      <a href="formulaireContact.php">Formulaire De Contact</a>
+      <a href="formulaireContact.php">Formulaire de contact</a>
   </li>
   
   

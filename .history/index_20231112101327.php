@@ -77,7 +77,7 @@ BEPC 	 <br>
   Ecologie
   <div class="activity"> Militant et respect de la nature</div>
   Entraide, Associations
-  <div class="activity">Aide aux plus démunis</div>
+  <div class="activity">R</div>
   Randonnées
   <div class="activity">Marche + Vélo</div>
   Musique
@@ -86,6 +86,6 @@ BEPC 	 <br>
   <div class="activity">Océan</div>
 </div>
 
-</div>
+</div
 
 <?php include("footer.php") ?>

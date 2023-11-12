@@ -1,7 +1,7 @@
 <!--Footer du site-->
 <br><br>
 <div class="cv">
-  <h3>Téléchargement Cv</h3>
+  <h3>Télécharge</h3>
 <a href="images/cv-michelHoffmann.pdf"  download>
 <img src="images/cv.png" alt="Telechargement Cv" title="Telechargement Cv" /> 
 </a>

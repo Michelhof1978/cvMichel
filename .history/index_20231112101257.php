@@ -76,8 +76,8 @@ BEPC 	 <br>
 <div>
   Ecologie
   <div class="activity"> Militant et respect de la nature</div>
-  Entraide, Associations
-  <div class="activity">Aide aux plus démunis</div>
+  Entraide
+  <div class="activity">Respect à toutes formes de vies</div>
   Randonnées
   <div class="activity">Marche + Vélo</div>
   Musique
