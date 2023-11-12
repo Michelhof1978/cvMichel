@@ -27,9 +27,20 @@
   <li class="menuExperience">
       <a href="experiencePro.php">Expériences Professionnelles</a>
   </li>
-  <li class="menuInfo">
-      <a href="">Dossier Professionnel</a>
-  </li>
+
+  <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Dossier Professionnel
+      </a>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <a class="dropdown-item" href="images/DossierProComplet.pdf" download>Télécharger PDF</a>
+      </div>
+    </li>
+
+    <li class="nav-item">
+      <a class="nav-link" href="formulaireContact.php">Formulaire De Contact</a>
+    </li>
+
   <li class="menuContact">
       <a href="formulaireContact.php">Formulaire De Contact</a>
   </li>
