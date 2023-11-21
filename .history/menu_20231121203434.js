@@ -1,5 +1,4 @@
 
-//NAVBAR COLOR SURVOL
 
 var cheminComplet = document.location.href;
 var nomDuFichier = cheminComplet.substring(cheminComplet.lastIndexOf("/") + 1);
