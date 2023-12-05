@@ -56,7 +56,7 @@
     <h2 class="colorBlueDark size40 borderBottomDark">Formation</h2>
     <div>
       Diplôme de niveau 5  : Développement Web <br>
-      <div class="activity">Wild Code School 09/2021 à 12/2023<br>
+      <div class="activity">Wild Code School 09/2021 à 12/<br>
         <hr>
       </div>
 
