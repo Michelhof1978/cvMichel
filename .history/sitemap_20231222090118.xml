@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://cvmichel-hoffmann.fr/index.php</loc>
+  <changefreq>weekly</changefreq>
+  <lastmod>2023-12-22</lastmod>
+</url>
+<url>
+  <loc>http://cvmichel-hoffmann.fr/experiencePro.php</loc>
+  <changefreq>weekly</changefreq>
+  <lastmod>2023-12-22</lastmod>
+</url>
+<url>
+  <loc>http://cvmichel-hoffmann.fr/images/dp.pdf</loc>
+  <changefreq>weekly</changefreq>
+  <lastmod>2023-12-22</lastmod>
+</url>
+<url>
+  <loc>http://cvmichel-hoffmann.fr/formulaireContact.php</loc>
+  <changefreq>weekly</changefreq>
+  <lastmod>2023-12-22</lastmod>
+</url>
+<url>
+  <loc>http://cvmichel-hoffmann.fr/images/cv-michelHoffmann.pdf</loc>
+  <changefreq>weekly</changefreq>
+  <lastmod>2023-12-22</lastmod>
+</url>
+<url>
+  <loc></loc>
+  <changefreq>weekly</changefreq>
+  <lastmod>2023-12-22</lastmod>
+</url>
+</urlset>
