@@ -1,5 +1,3 @@
-<?php include("header.php"); ?>
-
 <?php
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
   // Assurez-vous que le formulaire est soumis en POST

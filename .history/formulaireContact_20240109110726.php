@@ -6,24 +6,24 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
   // Récupération des données du formulaire en les nettoyant
   $nom = htmlspecialchars($_POST["nom"]);
-  $email = isset($_POST["email"]) ? filter_var($_POST["email"], FILTER_VALIDATE_EMAIL) : null;
+  $email = filter_var($_POST["email"], FILTER_VALIDATE_EMAIL);
   $objet = htmlspecialchars($_POST["objet"]);
   $message = htmlspecialchars($_POST["message"]);
 
-  // Vérifiez si l'adresse e-mail est vide
-  if ($email === null) {
-    echo '<p class="alert alert-danger ms-5 mt-3 fw-bold">Email invalide</p>';
-  } else {
+  // Vérifiez si l'adresse e-mail est valide
+  if ($email) {
     $message = "Message envoyé de :\nNom : $nom\nEmail : $email\nObjet : $objet\nMessage : $message";
 
     // Envoi de l'e-mail
     $retour = mail("michel.hof@hotmail.fr", $objet, $message, "From: contact@cvmichel-hoffmann.fr" . "\r\n" . "Reply-to: $email");
 
     if ($retour) {
-      echo '<p class="alert alert-success mt-3 fw-bold">L\'email a bien été envoyé</p>';
+      echo "<p>L'email a bien été envoyé</p>";
     } else {
-      echo '<p class="alert alert-danger ms-5 mt-3 fw-bold">Erreur lors de l\'envoi de l\'email</p>';
+      echo "<p>Erreur lors de l'envoi de l'email</p>";
     }
+  } else {
+    echo "<p>Email invalide</p>";
   }
 }
 ?>
@@ -37,17 +37,17 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       <fieldset>
         <legend>Renseigner les informations</legend>
 
-        <div class="mb-3">
+        <div class="">
           <label for="nom">Nom:</label>
           <input type="text" name="nom" id="nom" placeholder="Nom / Prenom" required />
         </div>
 
-        <div class="mb-3">
+        <div>
           <label for="email">Email:</label>
           <input type="email" name="email" id="email" placeholder="nom@exemple.com" required />
         </div>
 
-        <div class="mb-3">
+        <div>
           <label for="objet">Objet:</label>
           <select name="objet" id="objet">
             <option>Proposition d'emploi</option>
@@ -56,7 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
           </select>
         </div>
 
-        <div class="mb-3">
+        <div>
           <label for="message">Message:</label>
           <textarea name="message" id="message" cols="30" rows="5"></textarea>
         </div>

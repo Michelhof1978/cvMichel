@@ -28,6 +28,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 }
 ?>
 
+
+?>
+
 <!-- Corps du site -->
 <div class="corps size20 text">
   <h2 class="size40 borderBottomDark">Me contacter</h2>
