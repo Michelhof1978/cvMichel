@@ -75,8 +75,8 @@
         <h2 class="borderBottomDark ">Responsable événementiel</h2>
         <div>
             -Gestion d'une équipe, planning de 12 personnes <br>
-            -Organisation d'évènements<br>
-            -Supervision de l'embauche, de la formation et de l'évolution professionnelle de chaque employé<br>
+            -Organisation d'évènements.<br>
+            -Supervision de l'embauche, de la formation et de l'évolution professionnelle de chaque employé.<br>
             -Relations clients
 
         </div>
@@ -91,9 +91,9 @@
     <div class="gauche col2 colorBlueDark">
         <h2 class="borderBottomDark">Chef de rang et maître d'hôtel </h2>
         <div>
-            -Gestion d'une vingtaine de salariés, supervision de l'embauche, de la formation et de l'évolution professionnelle de chaque salarié<br>
-            -Satisfaction du client grâce à une mise en place immédiate afin de prendre rapidement les commandes de boissons et de répondre à tous leurs besoins<br>
-            -A épauler le directeur d'exploitation dans le cadre des décisions opérationnelles quotidiennes
+            -Gestion d'une vingtaine de salariés, supervision de l'embauche, de la formation et de l'évolution professionnelle de chaque salarié.<br>
+            -Satisfaction du client grâce à une mise en place immédiate afin de prendre rapidement les commandes de boissons et de répondre à tous leurs besoins.<br>
+            -A épauler le directeur d'exploitation dans le cadre des décisions opérationnelles quotidiennes.
 
 
         </div>

@@ -14,7 +14,7 @@
 <body>
   <!--header-->
   <div>
-    <img class="header" src="images/banner3.png" alt="bannière">
+    <img class="header" src="images/banner3.png" alt="bannière" />
   </div>
   <!--nav-->
   <nav class="bg-colorBlue3">

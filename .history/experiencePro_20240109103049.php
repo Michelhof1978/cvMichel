@@ -60,7 +60,7 @@
             -Satisfaction des clients grâce à une mise en place immédiate afin de prendre rapidement les commandes de boissons et de répondre à tous leurs besoins<br>
             -Responsabilités complètes d'ouverture, de fermeture et de changement d'équipe pour favoriser l'efficacité du restaurant et des équipes afin de répondre aux besoins des clients<br>
             -Applications des procédures adéquates de nettoyage, d'hygiène et de manipulation des aliments dans le respect des réglementations du ministère de la Santé<br>
-            -Présentation au moment opportun auprès des clients pour prendre les commandes et confirmer leur satisfaction par rapport aux repas après le service, en veillant à rectifier tout problème éventuel
+            -Présentation au moment opportun auprès des clients pour prendre les commandes et confirmer leur satisfaction par rapport aux repas après le service, en veillant à rectifier tout problème éventuel.
 
         </div>
         <br />
@@ -74,9 +74,9 @@
     <div class="gauche col2 colorBlueDark">
         <h2 class="borderBottomDark ">Responsable événementiel</h2>
         <div>
-            -Gestion d'une équipe, planning de 12 personnes <br>
-            -Organisation d'évènements<br>
-            -Supervision de l'embauche, de la formation et de l'évolution professionnelle de chaque employé<br>
+            -Gestion d'une équipe, planning de 12 personnes. <br>
+            -Organisation d'évènements.<br>
+            -Supervision de l'embauche, de la formation et de l'évolution professionnelle de chaque employé.<br>
             -Relations clients
 
         </div>
@@ -91,9 +91,9 @@
     <div class="gauche col2 colorBlueDark">
         <h2 class="borderBottomDark">Chef de rang et maître d'hôtel </h2>
         <div>
-            -Gestion d'une vingtaine de salariés, supervision de l'embauche, de la formation et de l'évolution professionnelle de chaque salarié<br>
-            -Satisfaction du client grâce à une mise en place immédiate afin de prendre rapidement les commandes de boissons et de répondre à tous leurs besoins<br>
-            -A épauler le directeur d'exploitation dans le cadre des décisions opérationnelles quotidiennes
+            -Gestion d'une vingtaine de salariés, supervision de l'embauche, de la formation et de l'évolution professionnelle de chaque salarié.<br>
+            -Satisfaction du client grâce à une mise en place immédiate afin de prendre rapidement les commandes de boissons et de répondre à tous leurs besoins.<br>
+            -A épauler le directeur d'exploitation dans le cadre des décisions opérationnelles quotidiennes.
 
 
         </div>

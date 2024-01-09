@@ -48,22 +48,20 @@
           <td>Lire et écrire</td>
           <td>Scolaire</td>
         </tr>
-
+        
         <tr>
           <td>Allemand</td>
           <td>Lire et écrire</td>
           <td>Scolaire</td>
         </tr>
-
       </table>
     </div>
     <br>
 
 
     <h2 class="colorBlueDark size40 borderBottomDark">Formation</h2>
-
     <div>
-      Diplôme de niveau 5  : Développement Web Full Stack <br>
+      Diplôme de niveau 5  : Développement Web <br>
       <div class="activity">Wild Code School 09/2021 à 12/2023<br>
         <hr>
       </div>
@@ -86,7 +84,6 @@
     <br>
 
     <h2 class="colorBlueDark size40 borderBottomDark">Activités personnelles</h2>
-
     <div>
       Ecologie
       <div class="activity"> Militant et respect de la nature</div>
