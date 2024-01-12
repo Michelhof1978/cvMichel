@@ -15,7 +15,7 @@
     <h2 class="colorBlueDark size40 borderBottomDark">Synthèse</h2>
 
     <p class="">
-      &nbsp; &nbsp; &nbsp; &nbsp; En Développement web, comme en tout, les connaissances ne sont rien,
+      &nbsp; &nbsp; En Développement web, comme en tout, les connaissances ne sont rien,
       sans curiosité, intelligence, réflexion et imagination.<br>
       C’est la curiosité et la passion pour ce métier qui m’ont amené à une
       reconversion professionnelle et à reprendre mes études.<br>
