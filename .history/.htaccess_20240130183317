@@ -14,11 +14,5 @@ RewriteRule ^informations/?$ index.php [L]
 # Redirection de /experiencePro.php vers /experiencePro
 RewriteCond %{THE_REQUEST} \s/experiencePro\.php [NC]
 RewriteRule ^ /experiencePro [R=301,L]
-# Réécriture de /experiencePro vers /experiencePro.php
-RewriteRule ^experiencePro/?$ experiencePro.php [L]
-
-# Redirection de /formulaireContact.php vers /formulaireContact
-RewriteCond %{THE_REQUEST} \s/formulaireContact\.php [NC]
-RewriteRule ^ /formulaireContact [R=301,L]
-# Réécriture de /formulaireContact vers /formulaireContact.php
-RewriteRule ^formulaireContact/?$ formulaireContact.php [L]
+# Réécriture de /informations vers /index.php
+RewriteRule ^informations/?$ index.php [L]

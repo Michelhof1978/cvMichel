@@ -20,5 +20,5 @@ RewriteRule ^experiencePro/?$ experiencePro.php [L]
 # Redirection de /formulaireContact.php vers /formulaireContact
 RewriteCond %{THE_REQUEST} \s/formulaireContact\.php [NC]
 RewriteRule ^ /formulaireContact [R=301,L]
-# Réécriture de /formulaireContact vers /formulaireContact.php
-RewriteRule ^formulaireContact/?$ formulaireContact.php [L]
+# Réécriture de /formulaireContact vers /experiencePro.php
+RewriteRule ^experiencePro/?$ experiencePro.php [L]
