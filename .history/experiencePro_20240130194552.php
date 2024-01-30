@@ -1,5 +1,5 @@
 <?php include("head.php") ?>
-<meta name="description" content="Expérience Professionnelle">
+<meta name="Expérience Professionnelle" content="Expérience Professionnelle">
 <title>Expérience Professionnelle </title>
 </head>
 

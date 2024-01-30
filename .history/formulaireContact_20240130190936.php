@@ -1,6 +1,6 @@
 <?php include("head.php") ?>
-<meta name="description" content="Un projet ou une proposition d'emploi, Merci de compléter le Formulaire De Contact">
-<title>Me Contacter </title>
+<meta name="description" content="Nous vous proposons des hébergements dans un camping à Dompierre sur Besbre dans le département de l'Allier à 5 km du parc d'attractions le Pal.">
+<title>Accueil Camping Le Pal </title>
 </head>
 
 <?php include("header.php") ?>
@@ -71,7 +71,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
           <textarea name="message" id="message" cols="30" rows="5"></textarea>
         </div>
 
-        <!-- <div class="g-recaptcha" data-sitekey="VOTRE_CLE_PUBLIQUE_RECAPTCHA"></div> -->
+        <div class="g-recaptcha" data-sitekey="VOTRE_CLE_PUBLIQUE_RECAPTCHA"></div>
 
         <input type="submit" value="Envoyer" class="buttonContact" />
       </fieldset>

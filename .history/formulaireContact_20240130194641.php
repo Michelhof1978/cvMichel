@@ -1,5 +1,5 @@
 <?php include("head.php") ?>
-<meta name="description" content="Un projet ou une proposition d'emploi, Merci de compléter le Formulaire De Contact">
+<meta name="Expérience Professionnelle" content="Expérience Professionnelle">
 <title>Me Contacter </title>
 </head>
 
@@ -71,7 +71,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
           <textarea name="message" id="message" cols="30" rows="5"></textarea>
         </div>
 
-        <!-- <div class="g-recaptcha" data-sitekey="VOTRE_CLE_PUBLIQUE_RECAPTCHA"></div> -->
+        <div class="g-recaptcha" data-sitekey="VOTRE_CLE_PUBLIQUE_RECAPTCHA"></div>
 
         <input type="submit" value="Envoyer" class="buttonContact" />
       </fieldset>

@@ -1,5 +1,5 @@
 <body>
-<header>
+<header
   <div>
     <img class="header" src="images/banner3.png" alt="bannière">
   </div>
@@ -27,7 +27,7 @@
   <p class="fs-1 lead text-center mt-4 mb-4 fw-bold">Développeur Web Full Stack <br>
   <p class=" fs-4 lead text-primary text-center fw-bold">React/JS &nbsp; &nbsp; Symfony/PHP</p></p>
 
-  </header>
+
 
 
 

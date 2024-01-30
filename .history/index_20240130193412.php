@@ -5,7 +5,7 @@
 
 <?php include("header.php") ?>
 
-
+<body>
 <!--Corps du site-->
 <div class="corps">
 <div class="text-center mt-5">

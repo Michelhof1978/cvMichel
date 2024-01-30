@@ -52,14 +52,7 @@
 </script>
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-<script>
-  function onClick(e) {
-    e.preventDefault();
-    grecaptcha.enterprise.ready(async () => {
-      const token = await grecaptcha.enterprise.execute('6LdwQmEpAAAAAO_0atxrrc7_b1bU1ne9dRK7JyEr', {action: 'LOGIN'});
-    });
-  }
-</script>
+
 </body>
 
 </html>

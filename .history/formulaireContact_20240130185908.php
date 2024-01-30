@@ -1,19 +1,9 @@
-<?php include("head.php") ?>
-<meta name="description" content="Un projet ou une proposition d'emploi, Merci de compléter le Formulaire De Contact">
-<title>Me Contacter </title>
-</head>
-
-<?php include("header.php") ?>
+<?php include("header.php"); ?>
 
 <?php
-// Clé privée reCAPTCHA 
-$config = include('./config/config.php');
-
-// Utiliser la clé secrète reCAPTCHA
-$secretKey = $config['recaptcha_secret_key'];
-
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
  
+
   // Récupération des données du formulaire en les nettoyant
   $nom = htmlspecialchars($_POST["nom"]);
   $email = isset($_POST["email"]) ? filter_var($_POST["email"], FILTER_VALIDATE_EMAIL) : null;
@@ -71,7 +61,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
           <textarea name="message" id="message" cols="30" rows="5"></textarea>
         </div>
 
-        <!-- <div class="g-recaptcha" data-sitekey="VOTRE_CLE_PUBLIQUE_RECAPTCHA"></div> -->
+        <div class="g-recaptcha" data-sitekey="VOTRE_CLE_PUBLIQUE_RECAPTCHA"></div>
 
         <input type="submit" value="Envoyer" class="buttonContact" />
       </fieldset>

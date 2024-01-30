@@ -1,5 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Page d'accueil du CV de Michel HOFFMANN">
+  <meta name="Geography" content="FRANCE">
+  <meta name="Category" content="internet">
+  <title>Cv Développeur Web Full Stack de Michel Hoffmann</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+<head>
+
+</head>
+
 <body>
-<header>
+  <!--header-->
   <div>
     <img class="header" src="images/banner3.png" alt="bannière">
   </div>
@@ -27,7 +42,7 @@
   <p class="fs-1 lead text-center mt-4 mb-4 fw-bold">Développeur Web Full Stack <br>
   <p class=" fs-4 lead text-primary text-center fw-bold">React/JS &nbsp; &nbsp; Symfony/PHP</p></p>
 
-  </header>
+
 
 
 

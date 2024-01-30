@@ -1,10 +1,9 @@
 <?php include("head.php") ?>
-<meta name="description" content="Page d'accueil du CV de Michel HOFFMANN">
-<title>Cv Développeur Web Full Stack React/JS Symfony/PHP de Michel Hoffmann</title>
+<meta name="description" content="">
+<title> </title>
 </head>
 
 <?php include("header.php") ?>
-
 
 <!--Corps du site-->
 <div class="corps">
