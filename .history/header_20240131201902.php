@@ -24,6 +24,7 @@
     </ul>
   </nav>
 
+  <div>
   <p class="fs-1 lead text-center mt-4 mb-4 fw-bold">Développeur Web Full Stack <br></p>
   <p class=" fs-4 lead text-primary text-center fw-bold">React/JS &nbsp; &nbsp; Symfony/PHP</p>
 

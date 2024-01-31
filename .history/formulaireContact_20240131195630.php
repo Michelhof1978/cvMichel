@@ -81,7 +81,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
       <div class="mb-3 lead">
         <label for="email">Email:</label>
-        <input type="email" name="email" id="email" placeholder="nom@exemple.com" required>
+        <input type="email" name="email" id="email" placeholder="nom@exemple.com" required />
       </div>
 
       <div class="mb-3 lead">

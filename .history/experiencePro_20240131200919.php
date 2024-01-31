@@ -38,7 +38,7 @@
             -Gestion d'un parc matière<br>
             -Respect de la réglementation en matière de sécurité, des exigences de contrat, des politiques d'entreprise et des procédures opérationnelles
         </div>
-       
+        <br />
     </div>
 
     <div class="gauche col1 colorBlueLight lead">
@@ -52,7 +52,7 @@
             -Organisation et animation d'évènements<br>
             -relations clients
         </div>
-        
+        <br />
     </div>
 
     <div class="gauche col1 colorBlueLight lead">
@@ -69,7 +69,7 @@
             -Présentation au moment opportun auprès des clients pour prendre les commandes et confirmer leur satisfaction par rapport aux repas après le service, en veillant à rectifier tout problème éventuel
 
         </div>
-        
+        <br />
     </div>
 
     <div class="gauche col1 colorBlueLight lead">
@@ -86,7 +86,7 @@
             -Relations clients
 
         </div>
-        
+        <br />
     </div>
 
     <div class="gauche col1 colorBlueLight lead">
@@ -103,7 +103,7 @@
 
 
         </div>
-       
+        <br />
     </div>
 
 </div>

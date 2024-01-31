@@ -13,11 +13,11 @@
   <div class="container">
 
   <a href="https://github.com/Michelhof1978" class="me-3" target="_blank">
-  <img src="images/github.png" alt="Projets Github" title="Projets Github" class="img-fluid">
+  <img src="images/github.png" alt="Projets Github" target="_blank" title="Projets Github" class="img-fluid">
 </a>
 
-<a href="https://www.linkedin.com/in/michel-h-245436203/" class="me-3" target="_blank">
-  <img src="images/linkedinLogo.png" alt="Profil Linkedin" title="Profil Linkedin" class="img-fluid">
+<a href="https://www.linkedin.com/in/michel-h-245436203/" class="me-3">
+  <img src="images/linkedinLogo.png" alt="Profil Linkedin" target="_blank" title="Profil Linkedin" class="img-fluid">
 </a>
 
 

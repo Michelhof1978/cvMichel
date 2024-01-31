@@ -26,9 +26,8 @@
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mon intérêt prononcé pour l'aspect créatif de ce domaine a été le moteur de ma reconversion professionnelle et de la reprise de mes études. <br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; En tant qu'autodidacte passionné par l'apprentissage continu, je tire profit de mes expériences pour répondre de manière optimale aux attentes des clients.<br>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ma disponibilité pour me déplacer reflète mon enthousiasme à relever de nouveaux défis, que ce soit en collaboration au sein d'une équipe ou en travaillant de manière indépendante.  <br>
-      </p>
        <p class="fw-bold text-center lead">Je suis reconnu RQTH permanent qui ne nécessite aucun aménagement de poste.</p>
-      
+      </p>
 
     <h2 class="colorBlueDark size40 borderBottomDark">Domaine de compétences</h2>
 

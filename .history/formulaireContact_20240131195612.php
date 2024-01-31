@@ -76,17 +76,17 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
       <div class="mb-3 lead">
         <label for="nom">Nom:</label>
-        <input type="text" name="nom" id="nom" placeholder="Nom / Prenom" required>
+        <input type="text" name="nom" id="nom" placeholder="Nom / Prenom" required />
       </div>
 
       <div class="mb-3 lead">
         <label for="email">Email:</label>
-        <input type="email" name="email" id="email" placeholder="nom@exemple.com" required>
+        <input type="email" name="email" id="email" placeholder="nom@exemple.com" required />
       </div>
 
       <div class="mb-3 lead">
         <label for="telephone">Téléphone:</label>
-        <input type="tel" name="telephone" id="telephone" placeholder="Numéro de téléphone" pattern="[0-9]+" title="Veuillez saisir uniquement des chiffres">
+        <input type="tel" name="telephone" id="telephone" placeholder="Numéro de téléphone" pattern="[0-9]+" title="Veuillez saisir uniquement des chiffres" />
       </div>
 
       <div class="mb-3 lead">
