@@ -52,7 +52,14 @@
   });
 </script>
 
-
+<script>
+  function onClick(e) {
+    e.preventDefault();
+    grecaptcha.enterprise.ready(async () => {
+      const token = await grecaptcha.enterprise.execute('6LchUWIpAAAAAIgvhB62j3zVv7Wlix2UeSK0_l-h', {action: 'LOGIN'});
+    });
+  }
+</script>
 
 </body>
 

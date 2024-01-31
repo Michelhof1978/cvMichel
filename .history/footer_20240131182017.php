@@ -52,7 +52,24 @@
   });
 </script>
 
+<script>
+   function onSubmit(token) {
+     document.getElementById("demo-form").submit();
+   }
+ </script>
 
+<script>
+    function onRecaptchaSubmit(token) {
+        // Stockez la réponse du reCAPTCHA dans un champ caché
+        document.getElementById('g-recaptcha-response').value = token;
+    }
+
+    function onSubmit() {
+        // Votre logique de validation du formulaire ici
+        // Si tout est bon, le formulaire sera soumis
+        return true;
+    }
+</script>
 
 </body>
 

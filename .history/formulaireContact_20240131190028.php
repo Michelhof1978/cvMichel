@@ -104,9 +104,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       </div>
 
 
-      <div class="mb-3 offset-md-2">
-        <div class="g-recaptcha" data-sitekey="6Le7fmIpAAAAAO77xIgENVHaZBWMWem4N62HQ3cx" data-callback="onRecaptchaSubmit"></div>
-      </div>
+      <div class="g-recaptcha ms" data-sitekey="6Le7fmIpAAAAAO77xIgENVHaZBWMWem4N62HQ3cx" data-callback="onRecaptchaSubmit"></div>
 
       <input type="submit" value="Envoyer" class="buttonContact" />
     </fieldset>

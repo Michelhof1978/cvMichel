@@ -104,7 +104,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       </div>
 
 
-      <div class="mb-3 offset-md-2">
+      <div class="mb-3 offset-md-1">
         <div class="g-recaptcha" data-sitekey="6Le7fmIpAAAAAO77xIgENVHaZBWMWem4N62HQ3cx" data-callback="onRecaptchaSubmit"></div>
       </div>
 

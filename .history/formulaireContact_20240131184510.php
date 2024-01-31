@@ -6,11 +6,7 @@
 <?php include("header.php"); ?>
 
 <?php
-// Clé privée reCAPTCHA 
-$config = include('./config/config.php');
-
-// Utiliser la clé secrète reCAPTCHA
-$secretKey = $config['recaptcha_secret_key'];
+require_once("./config/config.php");
 
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
@@ -103,10 +99,10 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         <textarea name="message" id="message" cols="30" rows="5"></textarea>
       </div>
 
+      <!-- Ajoutez un champ caché pour stocker la réponse du reCAPTCHA -->
+      <input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response">
 
-      <div class="mb-3 offset-md-2">
-        <div class="g-recaptcha" data-sitekey="6Le7fmIpAAAAAO77xIgENVHaZBWMWem4N62HQ3cx" data-callback="onRecaptchaSubmit"></div>
-      </div>
+      <div class="g-recaptcha" data-sitekey="6LeAYGIpAAAAAPkKo1xKJrani9yj6BRnt2jiks2r" data-callback="onRecaptchaSubmit"></div>
 
       <input type="submit" value="Envoyer" class="buttonContact" />
     </fieldset>
