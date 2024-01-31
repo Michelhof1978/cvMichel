@@ -67,7 +67,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
           <label for="objet">Objet:</label>
           <select name="objet" id="objet">
             <option>Proposition d'emploi</option>
-            <option>Proposition projet</option>
+            <option>Proposition d'un projet</option>
             <option>Autre</option>
           </select>
         </div>
