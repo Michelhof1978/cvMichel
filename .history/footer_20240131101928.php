@@ -35,10 +35,9 @@
 </footer>
 
 <script>
-
   //NAVBAR COLOR SURVOL
-  let cheminComplet = document.location.href;
-  let nomDuFichier = cheminComplet.substring(cheminComplet.lastIndexOf("/") + 1);
+  var cheminComplet = document.location.href;
+  var nomDuFichier = cheminComplet.substring(cheminComplet.lastIndexOf("/") + 1);
 
   const menuLien = document.querySelectorAll("a");
   console.log(menuLien);
@@ -53,6 +52,16 @@
 </script>
 
 
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+  function onClick(e) {
+    e.preventDefault();
+    grecaptcha.enterprise.ready(async () => {
+      const token = await grecaptcha.enterprise.execute('6LdwQmEpAAAAAO_0atxrrc7_b1bU1ne9dRK7JyEr', {action: 'LOGIN'});
+    });
+  }
+</script>
 </body>
 
 </html>

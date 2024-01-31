@@ -7,10 +7,10 @@
 
 <?php
 // Clé privée reCAPTCHA 
-//$config = include('./config/config.php');
+$config = include('./config/config.php');
 
 // Utiliser la clé secrète reCAPTCHA
-//$secretKey = $config['recaptcha_secret_key'];
+$secretKey = $config['recaptcha_secret_key'];
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
  
@@ -19,12 +19,13 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
   $email = isset($_POST["email"]) ? filter_var($_POST["email"], FILTER_VALIDATE_EMAIL) : null;
   $objet = htmlspecialchars($_POST["objet"]);
   $message = htmlspecialchars($_POST["message"]);
+  $telephone = htmlspecialchars($_POST["telephone"]); // Ajout du champ pour le numéro de téléphone
 
   // Vérifiez si l'adresse e-mail est vide
   if ($email === null) {
     echo '<p class="alert alert-danger ms-5 mt-3 fw-bold">Email invalide</p>';
   } else {
-    $message = "Message envoyé de :\nNom : $nom\nEmail : $email\nObjet : $objet\nMessage : $message";
+    $message = "Message envoyé de :\nNom : $nom\nEmail : $email\nTéléphone : $telephone\nObjet : $objet\nMessage : $message";
 
     // Envoi de l'e-mail
     $retour = mail("michel.hof@hotmail.fr", $objet, $message, "From: contact@cvmichel-hoffmann.fr" . "\r\n" . "Reply-to: $email");
@@ -58,6 +59,11 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         </div>
 
         <div class="mb-3 lead">
+          <label for="telephone">Téléphone:</label> <!-- Ajout du champ pour le numéro de téléphone -->
+          <input type="tel" name="telephone" id="telephone" placeholder="Numéro de téléphone" />
+        </div>
+
+        <div class="mb-3 lead">
           <label for="objet">Objet:</label>
           <select name="objet" id="objet">
             <option>Proposition d'emploi</option>
@@ -71,7 +77,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
           <textarea name="message" id="message" cols="30" rows="5"></textarea>
         </div>
 
-        
+  
+
         <input type="submit" value="Envoyer" class="buttonContact" />
       </fieldset>
     </form>

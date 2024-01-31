@@ -37,8 +37,8 @@
 <script>
 
   //NAVBAR COLOR SURVOL
-  let cheminComplet = document.location.href;
-  let nomDuFichier = cheminComplet.substring(cheminComplet.lastIndexOf("/") + 1);
+  lety cheminComplet = document.location.href;
+  var nomDuFichier = cheminComplet.substring(cheminComplet.lastIndexOf("/") + 1);
 
   const menuLien = document.querySelectorAll("a");
   console.log(menuLien);
