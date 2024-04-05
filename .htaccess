@@ -7,9 +7,9 @@ RewriteBase /
 
 # Redirection de /index.php vers /informations
 RewriteCond %{THE_REQUEST} \s/index\.php [NC]
-RewriteRule ^ /informations [R=301,L]
+RewriteRule ^ / [R=301,L]
 # Réécriture de /informations vers /index.php
-RewriteRule ^informations/?$ index.php [L]
+RewriteRule ^/?$ index.php [L]
 
 # Redirection de /experiencePro.php vers /experiencePro
 RewriteCond %{THE_REQUEST} \s/experiencePro\.php [NC]
