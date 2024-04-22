@@ -75,7 +75,7 @@
 
     <div class="lead">
       Diplôme de niveau 5 : Développement Web Full Stack <br>
-      <div class="activity lead">Wild Code School 09/2022 à 12/2023<br>
+      <div class="activity lead">Wild Code School 09/2021 à 12/2023<br>
         <hr>
       </div>
 

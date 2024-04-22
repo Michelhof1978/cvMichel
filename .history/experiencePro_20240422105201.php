@@ -32,7 +32,7 @@
         <div class="lead">07/2006 - 06/2022 </div>
     </div>
 
-    <div class="gauche col2 colorBlueDark lead mb-2">
+    <div class="gauche col2 colorBlueDark lead ">
         <h2 class="borderBottomDark"><strong>Conducteur d'installation</strong></h2>
         <div class="lead">
             -Gestion d'un parc matière<br>
@@ -46,7 +46,7 @@
         <div class="lead">04/2008 - 12/2016 </div>
     </div>
 
-    <div class="gauche col2 colorBlueDark lead mb-2">
+    <div class="gauche col2 colorBlueDark lead">
         <h2 class="borderBottomDark "><strong>Dj, Animateur et gérant de société</strong></h2>
         <div class="lead">
             -Organisation et animation d'évènements<br>
@@ -60,7 +60,7 @@
         <div class="lead">03/2003 - 07/2006 </div>
     </div>
 
-    <div class="gauche col2 colorBlueDark lead mb-2">
+    <div class="gauche col2 colorBlueDark lead">
         <h2 class="borderBottomDark "><strong>Responsable de salle</strong></h2>
         <div class="lead">
             -Satisfaction des clients grâce à une mise en place immédiate afin de prendre rapidement les commandes de boissons et de répondre à tous leurs besoins<br>
@@ -79,7 +79,7 @@
 
     <div class="gauche col2 colorBlueDark lead">
         <h2 class="borderBottomDark "><strong>Responsable événementiel</strong></h2>
-        <div class="lead mb-2">
+        <div class="lead">
             -Gestion d'une équipe, planning de 12 personnes <br>
             -Organisation d'évènements<br>
             -Supervision de l'embauche, de la formation et de l'évolution professionnelle de chaque employé<br>
@@ -96,7 +96,7 @@
 
     <div class="gauche col2 colorBlueDark lead">
         <h2 class="borderBottomDark"><strong>Chef de rang et maître d'hôtel</strong> </h2>
-        <div class="lead mb-2">
+        <div class="lead">
             -Gestion d'une vingtaine de salariés, supervision de l'embauche, de la formation et de l'évolution professionnelle de chaque salarié<br>
             -Satisfaction du client grâce à une mise en place immédiate afin de prendre rapidement les commandes de boissons et de répondre à tous leurs besoins<br>
             -A épauler le directeur d'exploitation dans le cadre des décisions opérationnelles quotidiennes

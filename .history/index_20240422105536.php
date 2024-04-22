@@ -19,7 +19,7 @@
   <br>
   <div class="text lead bg-light rounded shadow p-4 pb-5 bg-white rounded ms-1 me-1 ">
 
-    <h2 class="colorBlueDark size40 borderBottomDark"><strong>Synthèse</strong></h2>
+    <h2 class="colorBlueDark size40 borderBottomDark"><strong></strong>Synthèse</h2>
 
     <p class="lead">
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Passionné par le développement web, je suis constamment animé par un flux d'idées que je m'efforce de concrétiser. <br>
@@ -30,16 +30,16 @@
        <p class="fw-bold text-center lead">Je suis reconnu RQTH permanent qui ne nécessite aucun aménagement de poste.</p>
       
 
-    <h2 class="colorBlueDark size40 borderBottomDark"><strong>Domaine de compétences</strong></h2>
+    <h2 class="colorBlueDark size40 borderBottomDark"><strong></strong>Domaine de compétences</h2>
 
     <br>
 
     <div class="domaineCompetence lead">
       <table>
         <tr>
-          <th class="colorBlueLight lead"><strong>Compétences</strong></th>
-          <th class="colorBlueLight lead"><strong>Détail</strong></th>
-          <th class="colorBlueLight lead"><strong>Niveau</strong></th>
+          <th class="colorBlueLight lead"><strong></strong>Compétences</th>
+          <th class="colorBlueLight lead">Détail</th>
+          <th class="colorBlueLight lead">Niveau</th>
         </tr>
 
         <tr>
@@ -71,11 +71,11 @@
     <br>
 
 
-    <h2 class="colorBlueDark size40 borderBottomDark"><strong>Formation</strong></h2>
+    <h2 class="colorBlueDark size40 borderBottomDark">Formation</h2>
 
     <div class="lead">
       Diplôme de niveau 5 : Développement Web Full Stack <br>
-      <div class="activity lead">Wild Code School 09/2022 à 12/2023<br>
+      <div class="activity lead">Wild Code School 09/2021 à 12/2023<br>
         <hr>
       </div>
 
@@ -96,19 +96,19 @@
     </div>
     <br>
 
-    <h2 class="colorBlueDark size40 borderBottomDark"><strong>Activités personnelles</strong></h2>
+    <h2 class="colorBlueDark size40 borderBottomDark">Activités personnelles</h2>
 
     <div>
       Ecologie
-      <div class="activity lead mb-2"> Militant et respect de la nature</div>
+      <div class="activity lead"> Militant et respect de la nature</div>
       Entraide, Associations
-      <div class="activity lead mb-2">Aide aux plus démunis</div>
+      <div class="activity lead">Aide aux plus démunis</div>
       Randonnées
-      <div class="activity lead mb-2">Marche + Vélo</div>
+      <div class="activity lead">Marche + Vélo</div>
       Musique
-      <div class="activity lead mb-2">Ecoute + Concert</div>
+      <div class="activity lead">Ecoute + Concert</div>
       Surf
-      <div class="activity lead mb-2">Océan</div>
+      <div class="activity lead">Océan</div>
     </div>
 
   </div>

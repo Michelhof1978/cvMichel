@@ -75,7 +75,7 @@
 
     <div class="lead">
       Diplôme de niveau 5 : Développement Web Full Stack <br>
-      <div class="activity lead">Wild Code School 09/2022 à 12/2023<br>
+      <div class="activity lead">Wild Code School 09/2021 à 12/2023<br>
         <hr>
       </div>
 
@@ -102,13 +102,13 @@
       Ecologie
       <div class="activity lead mb-2"> Militant et respect de la nature</div>
       Entraide, Associations
-      <div class="activity lead mb-2">Aide aux plus démunis</div>
+      <div class="activity lead">Aide aux plus démunis</div>
       Randonnées
-      <div class="activity lead mb-2">Marche + Vélo</div>
+      <div class="activity lead">Marche + Vélo</div>
       Musique
-      <div class="activity lead mb-2">Ecoute + Concert</div>
+      <div class="activity lead">Ecoute + Concert</div>
       Surf
-      <div class="activity lead mb-2">Océan</div>
+      <div class="activity lead">Océan</div>
     </div>
 
   </div>
