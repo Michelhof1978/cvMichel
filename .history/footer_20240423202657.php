@@ -1,7 +1,7 @@
 <!-- Footer du site -->
-<div class="mb-5 mt-5 row justify-content-center">
+<div class="row justify-content-center">
     <div class="col-2 text-center">
-        <h3 class="lead mb-4">Cv à télécharger</h3>
+        <h3 class="lead">Cv à télécharger</h3>
         <a href="images/cv-michelHoffmann.pdf" download>
             <img src="images/cv.png" alt="Téléchargement CV" title="Téléchargement CV" class="img-fluid">
         </a>
@@ -12,12 +12,11 @@
     </div>
 
     <div class="col-2 text-center">
-    <h3 class="lead">Jouer à Mario</h3>
-    <a href="mario/index.html" target="_blank">
-        <img src="images/mario.png" alt="jeu Mario" title="jeu Mario" class="img-fluid w-75">
-    </a>
-</div>
-
+        <h3 class="lead">Jouer à Mario</h3>
+        <a href="mario">
+            <img src="images/mario.png" alt="jeu Mario" title="jeu Mario" class="img-fluid w-75">
+        </a>
+    </div>
 </div>
 
 

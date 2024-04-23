@@ -12,12 +12,11 @@
     </div>
 
     <div class="col-2 text-center">
-    <h3 class="lead">Jouer à Mario</h3>
-    <a href="mario/index.html" target="_blank">
-        <img src="images/mario.png" alt="jeu Mario" title="jeu Mario" class="img-fluid w-75">
-    </a>
-</div>
-
+        <h3 class="lead">Jouer à Mario</h3>
+        <a href="mario">
+            <img src="images/mario.png" alt="jeu Mario" title="jeu Mario" class="img-fluid ">
+        </a>
+    </div>
 </div>
 
 
