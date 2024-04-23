@@ -1,7 +1,7 @@
 <!-- Footer du site -->
 <div class="mb-5 mt-5 row justify-content-center">
     <div class="col-2 text-center">
-        <h3 class="lead mb-4">Télécharger le Cv</h3>
+        <h3 class="lead mb-4">élécharger</h3>
         <a href="images/cv-michelHoffmann.pdf" download>
             <img src="images/cv.png" alt="Téléchargement CV" title="Téléchargement CV" class="img-fluid">
         </a>
