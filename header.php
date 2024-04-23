@@ -34,4 +34,11 @@
     <p class="fs-2 lead text-center mt-4 mb-4 ">Hoffmann Michel 45 ans <br></p>
     <p class="fs-2 lead text-center mt-4 mb-4 ">4 lot la croix rouge - 03 230 Garnat/Engièvre <br></p>
 
+    <div class="text-center">
+    <p class="fs-4 lead activity mt-4 mb-4 "><strong>Résultat Ecf </strong><br></p>
+     <audio controls>
+      <source src="images/resultat-ECF.mp3" type="audio/mp3">
+         Votre navigateur ne prend pas en charge l'élément audio.
+     </audio>
+    </div>
   </header>

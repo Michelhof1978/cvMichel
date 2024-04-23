@@ -13,7 +13,7 @@
     <a href="https://lescaravanesdelabesbre.fr/" target="_blank">
         <img src="images/logoLesCaravanesDeLaBesbre.png" alt="Réalisation Client" class="logoPal img-fluid" style="width: 15%; margin-top: 50px; margin-bottom: -70px;">
     </a>
-    <p class="fw-bold lead">Dernier Projet Client Réalisé de A à Z</p>
+    <p class="fw-bold lead">Dernier Projet Client Réalisé de A à Z En Freelance</p>
 </div>
 
   <br>
