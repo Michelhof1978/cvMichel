@@ -65,7 +65,7 @@
     <div class="gauche col2 colorBlueDark lead mb-2">
         <h2 class="borderBottomDark "><strong>Responsable de salle</strong></h2>
         <div class="lead">
-            -Je m’occupais de la prise de commandes et je gérais une partie de l’équipe.<br>
+            -Je m’occupais de la prise de commandes et je gérais une partiede l’équipe.<br>
             -Responsable des ouvertures, fermetures et rotations d'équipe.<br>
             -Application des normes d'hygiène.<br>
             -Suivi de la satisfaction client post-service.
