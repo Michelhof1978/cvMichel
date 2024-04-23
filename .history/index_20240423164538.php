@@ -22,9 +22,9 @@
     <h2 class="colorBlueDark size40 borderBottomDark"><strong>Synthèse</strong></h2>
 
     <p class="lead">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Développeur web passionné et autodidacte, je suis animé par une passion créative qui a guidé ma reconversion professionnelle et la poursuite de mes études dans ce domaine. <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Doté d'un esprit innovant et d'une forte capacité d'adaptation, je mets à profit mes connaissances et mon apprentissage continu pour élaborer des solutions web qui répondent le plus possible aux besoins des clients. <br>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Disponible et mobile, je suis prêt à relever de nouveaux défis, que ce soit en collaboration au sein d'une équipe ou de manière indépendante.<br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Développeur web passionné et autodidacte, je suis animé par une passion créative qui a guidé ma reconversion professionnelle et la poursuite de mes étudesdans ce domaine. <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Doté d'un esprit innovant et d'une forte capacité d'adaptation, je mets à profitmes connaissances et mon apprentissage continu pour élaborer des solutions web quirépondent le plus possible aux besoins des clients. <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Disponible et mobile, je suis prêt à relever de nouveaux défis, que ce soit encollaboration au sein d'une équipe ou de manière indépendante.<br>
       </p>
        <!-- <p class="fw-bold text-center lead">Je suis reconnu RQTH permanent qui ne nécessite aucun aménagement de poste.</p> -->
       
