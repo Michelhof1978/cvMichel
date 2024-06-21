@@ -23,24 +23,42 @@
 <div class="container mb-5">
     <p class="fw-bold lead text-center">Vidéos Clients</p>
     <div class="row g-0 flex-column flex-md-row justify-content-center">
-
         <div class="col-12 col-md-5 me-md-3 mb-3 mb-md-0">
             <div class="video embed-responsive embed-responsive-16by9">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/x11QdyjodtM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                <div class="video-description text-center fw-bold">Projet De Financement Participatif</div>
+                <a href="#" class="video-link" data-bs-toggle="modal" data-bs-target="#videoModal" data-video="https://www.youtube.com/embed/x11QdyjodtM">
+                    <img src="https://img.youtube.com/vi/x11QdyjodtM/0.jpg" width="100%" alt="Projet de financement participatif">
+                </a>
+                <div class="video-description text-center fw-bold">Projet de financement participatif</div>
             </div>
         </div>
 
         <div class="col-12 col-md-5">
             <div class="video embed-responsive embed-responsive-16by9">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/G-B7-NNemiI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <a href="#" class="video-link" data-bs-toggle="modal" data-bs-target="#videoModal" data-video="https://www.youtube.com/embed/G-B7-NNemiI">
+                    <img src="https://img.youtube.com/vi/G-B7-NNemiI/0.jpg" width="100%" alt="Invitation Anniversaire 18 ans">
+                </a>
                 <div class="video-description text-center fw-bold">Invitation Anniversaire 18 ans</div>
             </div>
         </div>
-
     </div>
 </div>
 
+<!-- Modale -->
+<div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="videoModalLabel">Vidéo</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe id="videoModalIframe" width="100%" height="315" src="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
   <br>
@@ -189,5 +207,8 @@
       setPopupShown();
     }, 30000);
   }
+  
 </script>
+
+
 

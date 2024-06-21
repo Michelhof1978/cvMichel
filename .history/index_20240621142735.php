@@ -27,7 +27,7 @@
         <div class="col-12 col-md-5 me-md-3 mb-3 mb-md-0">
             <div class="video embed-responsive embed-responsive-16by9">
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/x11QdyjodtM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                <div class="video-description text-center fw-bold">Projet De Financement Participatif</div>
+                <div class="video-description text-center fw-bold">Projet De Financement articipatif</div>
             </div>
         </div>
 
