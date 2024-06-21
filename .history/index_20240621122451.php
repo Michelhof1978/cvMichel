@@ -10,7 +10,7 @@
 <div class="corps">
 
 <div class="text-center mt-5">
-    <p class="fw-bold lead mb-5">Projet Client Réalisé de A à Z En Freelance</p>
+    <p class="fw-bold lead">Projet Client Réalisé de A à Z En Freelance</p>
     <a href="https://lescaravanesdelabesbre.fr/" target="_blank">
         <img src="images/logoLesCaravanesDeLaBesbre.png" alt="Réalisation Client" class="logoPal img-fluid" style="width: 15%; margin-top: 50px; margin-bottom: -70px;">
     </a>  
@@ -18,29 +18,31 @@
 
 <div class="text-center mt-5">
 
-</div>
+<div class="container">
+    <div class="row g-0 flex-column flex-md-row">
 
-<div class="container mb-5">
-    <p class="fw-bold lead text-center">Vidéos Clients</p>
-    <div class="row g-0 flex-column flex-md-row justify-content-center">
-
-        <div class="col-12 col-md-5 mb-3 mb-md-0">
-            <div class="video embed-responsive embed-responsive-16by9">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/x11QdyjodtM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                <div class="video-description text-center fw-bold">Projet de financement participatif</div>
+        <div class="col">
+            <div class="videoPal embed-responsive embed-responsive-16by9">
+                <iframe width="560" height="315" src="" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <div class="video-description">Bande Annonce Du Pal</div>
             </div>
         </div>
 
-        <div class="col-12 col-md-5">
-            <div class="video embed-responsive embed-responsive-16by9">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/G-B7-NNemiI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                <div class="video-description text-center fw-bold">Invitation Anniversaire 18 ans</div>
+       
+
+        <div class="col d-none d-md-block">
+            <div class="videoPal embed-responsive embed-responsive-16by9">
+                <iframe width="560" height="315" src="<?php echo YOUTUBE2_URL; ?>" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <div class="video-description">Visite du Pal</div>
             </div>
         </div>
 
     </div>
 </div>
 
+
+    <p class="fw-bold lead">Projet Client Réalisé de A à Z En Freelance</p>
+</div>
 
   <br>
   <div class="text lead bg-light rounded shadow p-4 pb-5 bg-white rounded ms-1 me-1 ">

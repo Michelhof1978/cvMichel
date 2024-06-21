@@ -22,24 +22,25 @@
 
 <div class="container mb-5">
     <p class="fw-bold lead text-center">Vidéos Clients</p>
-    <div class="row g-0 flex-column flex-md-row justify-content-center">
+    <div class="row g-0 flex-column flex-md-row">
 
-        <div class="col-12 col-md-5 mb-3 mb-md-0">
+        <div class="col-4 me-md-3">
             <div class="video embed-responsive embed-responsive-16by9">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/x11QdyjodtM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/x11QdyjodtM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <div class="video-description text-center fw-bold">Projet de financement participatif</div>
             </div>
         </div>
 
-        <div class="col-12 col-md-5">
+        <div class="col-4 d-none d-md-block">
             <div class="video embed-responsive embed-responsive-16by9">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/G-B7-NNemiI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/G-B7-NNemiI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 <div class="video-description text-center fw-bold">Invitation Anniversaire 18 ans</div>
             </div>
         </div>
 
     </div>
 </div>
+
 
 
   <br>
