@@ -53,7 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       } else {
           // Envoi de l'e-mail
           $message = "Message envoyé de :\nNom : $nom\nEmail : $email\nTéléphone : $telephone\nObjet : $objet\nMessage : $message";
-          $retour = mail("michel.hof@hotmail.fr", $objet, $message, "From: contact@cvmichel-hoffmann.fr" . "\r\n" . "Reply-to: $email");
+          $retour = mail("michelhoff1978@", $objet, $message, "From: contact@cvmichel-hoffmann.fr" . "\r\n" . "Reply-to: $email");
 
           if ($retour) {
               echo '<p class="alert alert-success mt-3 fw-bold">L\'email a bien été envoyé</p>';
@@ -67,7 +67,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 <!-- Corps du site -->
 <div class="corps size20 text lead">
-<h2 class="size40 borderBottomDark">Me contacter par mail ou au 06-66-33-25-88</h2>
+<h2 class="size30 borderBottomDark">Me contacter par mail ou au 06-66-33-25-88</h2>
 
 <div>
   <form action="#" method="POST">

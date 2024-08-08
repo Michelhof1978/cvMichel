@@ -1,6 +1,6 @@
 #  RewriteEngine On
 #  RewriteCond %{SERVER_PORT} 80
-#  RewriteRule ^(.*)$ https://cvmichel-hoffmann.fr//$1 [R,L]
+#  RewriteRule ^(.*)$ https://cvmichel-hoffmann.fr/$1 [R,L]
 
 RewriteEngine On
 RewriteBase /
@@ -9,7 +9,7 @@ RewriteBase /
 RewriteCond %{THE_REQUEST} \s/index\.php [NC]
 RewriteRule ^ / [R=301,L]
 # Réécriture de /informations vers /index.php
-RewriteRule ^informations/?$ index.php [L]
+RewriteRule ^/?$ index.php [L]
 
 # Redirection de /experiencePro.php vers /experiencePro
 RewriteCond %{THE_REQUEST} \s/experiencePro\.php [NC]

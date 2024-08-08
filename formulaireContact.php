@@ -53,7 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
       } else {
           // Envoi de l'e-mail
           $message = "Message envoyé de :\nNom : $nom\nEmail : $email\nTéléphone : $telephone\nObjet : $objet\nMessage : $message";
-          $retour = mail("michel.hof@hotmail.fr", $objet, $message, "From: contact@cvmichel-hoffmann.fr" . "\r\n" . "Reply-to: $email");
+          $retour = mail("michelhoff1978@gmail.com", $objet, $message, "From: contact@cvmichel-hoffmann.fr" . "\r\n" . "Reply-to: $email");
 
           if ($retour) {
               echo '<p class="alert alert-success mt-3 fw-bold">L\'email a bien été envoyé</p>';
