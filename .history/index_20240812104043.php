@@ -10,13 +10,13 @@
 <div class="corps">
 
 <div class="text-center mt-5">
-    <p class="fw-bold lead mb-5">Derniers Projets Réalisés</p>
+    <p class="fw-bold lead mb-5">Projet Réalisé de A à Z</p>
     <a href="https://lescaravanesdelabesbre.fr/" target="_blank">
-        <img src="images/logoLesCaravanesDeLaBesbre.png" alt="Réalisation" class="logoPal img-fluid me-5" style="width: 15%; margin-top: 50px; margin-bottom: -70px;">
+        <img src="images/logoLesCaravanesDeLaBesbre.png" alt="Réalisation" class="logoPal img-fluid" style="width: 15%; margin-top: 50px; margin-bottom: -70px;">
     </a>  
 
     <a href="https://harmony-digital.fr/" target="_blank">
-        <img src="images/logoharmony.png" alt="Réalisation" class="logoPal img-fluid ms-5" style="width: 10%; margin-top: 50px; margin-bottom: -70px;">
+        <img src="images/logoharmony.png" alt="Réalisation" class="logoPal img-fluid ms" style="width: 10%; margin-top: 50px; margin-bottom: -70px;">
     </a>  
 </div>
 
