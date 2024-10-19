@@ -11,7 +11,7 @@
 
     <div class="gauche col1 colorBlueLight lead">
         <h2 class="activity "><strong>Harmony Digital</strong> &nbsp; <span style="color: black;">Moulins 03</span>  </h2>
-        <div class="lead">09/2023 - Aujourd'hui </div>
+        <div class="lead">09/2022 - Aujourd'hui </div>
     </div>
 
     <div class="gauche col2 colorBlueDark lead mb-2">
