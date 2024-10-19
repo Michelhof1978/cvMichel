@@ -30,7 +30,7 @@
     </nav>
 
     <p class="fs-1 lead text-center mt-4 mb-4 fw-bold">Développeur Web Full Stack <br></p>
-    <p class=" fs-4 lead activity text-center fw-bold">React/Js &nbsp; &nbsp; Symfony/Php</p>
+    <p class=" fs-4 lead activity text-center fw-bold">React/Js &nbsp; &nbsp; Symfony/PHP</p>
     <p class="fs-2 lead text-center mt-4 mb-4 ">Hoffmann Michel 46 ans <br></p>
     <p class="fs-2 lead text-center mt-4 mb-4 ">La Motte - 58 300 Decize <br></p>
 
